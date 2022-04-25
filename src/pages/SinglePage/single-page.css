@@ -1,0 +1,9 @@
+.single-page button {
+    margin: 10px;
+    cursor: pointer;
+    background-color: chartreuse;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
